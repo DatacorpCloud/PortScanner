@@ -38,6 +38,10 @@ To run this script correctly, Python 3.x must be installed. The script uses the 
 
     tkinter: for the graphical interface.
 
+Pre-compiled executable:
+
+For convenience, a pre-compiled version of this application is available as app.exe, which is the Windows executable version of the code. This version allows you to run the application without needing to install Python. Simply run the app.exe file to use the port scanner.
+
 This script is useful for network administrators, security testers, or anyone who needs to check the availability of ports on multiple hosts in a simple and efficient manner.
 
     concurrent.futures: for running the port scan concurrently.
